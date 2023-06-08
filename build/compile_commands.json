@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic/dev-s6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/dev-s6.dir/dev-s6.cpp.o -c /home/denis/freebasic/dev-s6/dev-s6.cpp",
+  "file": "/home/denis/freebasic/dev-s6/dev-s6.cpp"
+}
+]

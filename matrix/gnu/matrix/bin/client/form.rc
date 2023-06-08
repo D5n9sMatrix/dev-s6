@@ -1,0 +1,43 @@
+declare sub Title
+declare sub Properties
+
+declare function TValues ( byref values as integer ) as integer
+
+type values
+     dim value1 as uinteger
+end type
+
+end 
+
+declare function TPopList ( byref list as integer ) as integer
+
+type list
+   dim list1 as integer
+end type
+
+end
+
+declare function TKey ( byref  key as integer ) as integer
+
+type key
+   dim key1 as integer
+end type
+
+end
+
+sub Title
+' Name Title Window
+end sub
+
+sub Properties
+' Properties Name
+end sub
+
+declare sub TCheck ( byref assembly as integer )
+
+type assembly
+    dim tables as integer 
+end type
+
+
+end
